@@ -182,7 +182,7 @@
 - **Steganography and Digital Watermarking**
     - [I.J.Cox, M.L.Miller, J.A.Bloom, J.Fridrich, T.Kalker, **Digital Watermarking and Stegonagraphy**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Steganography%20and%20Digital%20Watermarking/Ingemar%20Cox%2C%20Matthew%20Miller%2C%20Jeffrey%20Bloom%2C%20Jessica%20Fridrich%2C%20Ton%20Kalker%20-%20Digital%20watermarking%20and.pdf)
     - [F.Y.Shih, **Digital Watermarking and Stegonagraphy Fundamentals and Techniques**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Steganography%20and%20Digital%20Watermarking/Shih%2C%20Frank%20Y%20-%20Digital%20Watermarking%20and%20Steganography%20_%20Fundamentals%20and%20Techniques%20(2007%2C%20CRC%20Press)%20-%20libgen.lc.pdf)
-    - [Stefon Katzeubeisser, F.A.Petitolos, **Information Hiding Techniques for Stegonagraphy and digital watermarking**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Steganography%20and%20Digital%20Watermarking/Stefan%20Katzenbeisser_%20Fabien%20A%20P%20Petitcolas%20-%20Information%20hiding%20techniques%20for%20steganography%20and%20digital%20watermarking%20(2000%2C%20Artech%20Hou.pdf)
+    - [Stefon Katzeubeisser, F.A.Petitolos, **Information Hiding Techniques for Stegonagraphy and digital watermarking**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Steganography%20and%20Digital%20Watermarking/Stefan%20Katzenbeisser_%20Fabien%20A%20P%20Petitcolas%20-%20Information%20hiding%20techniques%20for%20steganography%20and%20digital%20watermarking%20%282000%2C%20Artech%20Hou.pdf)
 
 
 - **NP Completeness and Approximation Algorithms**
@@ -200,6 +200,6 @@
 
 
 - **E-Commerce**
-    - [Efraim Turban, Jae Kyu Lee, Dave Klng, Judy McKay, Peter Marshall, **Electronic Commerce: A Managerial Perspective**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/E-Commerce/Efraim%20Turban%2C%20David%20King%2C%20Jae%20Kyu%20Lee%2C%20Ting-Peng%20Liang%2C%20Deborrah%20C.%20Turban%20(auth.)%20-%20Electronic%20Commerce_%20A%20Managerial%20and%20Social%20Networks%20Perspective%20(2015%2C%20Sp.pdf)
+    - [Efraim Turban, Jae Kyu Lee, Dave Klng, Judy McKay, Peter Marshall, **Electronic Commerce: A Managerial Perspective**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/E-Commerce/Efraim%20Turban%2C%20David%20King%2C%20Jae%20Kyu%20Lee%2C%20Ting-Peng%20Liang%2C%20Deborrah%20C.%20Turban%20(auth.)%20-%20Electronic%20Commerce_%20A%20Managerial%20and%20Social%20Networks%20Perspective%20%282015%2C%20Sp.pdf)
     - [Stuart Jacobs, **Engineering Information Security**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/E-Commerce/Stuart%20Jacobs%20-%20Engineering%20Information%20Security_%20The%20Application%20of%20Systems%20Engineering%20Concepts%20to%20Achieve%20Information%20Assurance%20(2011%2C%20Wiley-IEEE%20Press)%20-%20libgen.lc.pdf)
     - [Michael Wooldridge, **An Introduction to MultiAgent Systems**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/E-Commerce/Michael%20Wooldridge%20-%20An%20Introduction%20to%20MultiAgent%20Systems%20(2009)%20-%20libgen.lc.pdf)
