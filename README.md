@@ -81,7 +81,7 @@
 
 
 - **Compiler Design**
-    - [Alfred V. Aho, Ravi Sethi, D. Jeffrey Ulman, Monica S. Lam, **Compilers: Principles, Techniques and Tools**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Compiler%20Design/Jeffrey%20D.%20Ullman_%20Ravi%20Sethi_%20Monica%20S.%20Lam_%20Alfred%20V.%20Aho%20-%20Compilers%20_%20principles%2C%20techniques%2C%20and%20tools%20(2014).pdf)
+    - [Alfred V. Aho, Ravi Sethi, D. Jeffrey Ulman, Monica S. Lam, **Compilers: Principles, Techniques and Tools**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Compiler%20Design/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 
 
 - **Database Applications**
