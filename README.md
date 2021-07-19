@@ -45,7 +45,7 @@
 
 ## Semester 2
 - **Machine Learning**
-    - [E. Alpaydin, **Introduction to Machine Learning**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Machine%20Learning/Ethem%20Alpaydin%20-%20Introduction%20to%20Machine%20Learning%20(2014%2C%20The%20MIT%20Press)%20-%20libgen.lc.pdf)
+    - [E. Alpaydin, **Introduction to Machine Learning**](https://raw.githubusercontent.com/saranshbht/msc-books/master/M.Sc.%20CS%20Sem-2/Machine%20Learning/Ethem%20Alpaydin%20-%20Introduction%20to%20machine%20learning%20(2014%2C%20The%20MIT%20Press)%20-%20libgen.lc.pdf)
     - [T Hastie, R Tibshirani and J Friedman, **The  Elements of Statistical Learning Data Mining, Inference, and Prediction**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Machine%20Learning/Trevor%20Hastie%2C%20Robert%20Tibshirani%2C%20Jerome%20Friedman%20-%20The%20elements%20of%20statistical%20learning_%20Data%20mining%2C%20inference%2C%20and%20prediction%20(2009%2C%20Springer)%20-%20libgen.lc.pdf)
     - [C. M. Bishop, **Pattern Recognition and Machine Learning**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Machine%20Learning/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning%20(2011%2C%20Springer)%20-%20libgen.lc.pdf)
     - [R. O. Duda, P. E. Hart, and D.G. Stork, **Pattern Classification**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Machine%20Learning/Richard%20O.%20Duda%2C%20Peter%20E.%20Hart%2C%20David%20G.%20Stork%20-%20Pattern%20classification%20(2001%2C%20Wiley)%20-%20libgen.lc.pdf)
