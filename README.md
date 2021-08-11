@@ -85,6 +85,7 @@
 
 
 - **Database Applications**
+    - [Ramez Almasari, Shamkant B. Navathe, **Fundamentals of Database Design**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Database%20Applications/Ramez+Elmasari%2C+Shamkant+B.+Navathe+-+Fundamentals+of+Database+Design+Seventh+Edition+%282016+Pearson%29.pdf)
     - [A. Silberschatz, H. Korth and S. Sudarshan, **Database System Concepts**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Database%20Applications/Abraham%20Silberschatz_%20Henry%20F.%20Korth_%20S.%20Sudarshan%20-%20Database%20system%20concepts%20(2011%2C%20McGraw-Hill%20Education)%20-%20libgen.lc.pdf)
     - [Loney and Koch, **Oracle 10g The Complete Reference**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Database%20Applications/Kevin%20Loney%20-%20Oracle%20Database%2010g_%20The%20Complete%20Reference%20(2004%2C%20McGraw-Hill%20Osborne%20Media)%20-%20libgen.lc.pdf)
     - [J. Morrison, M. Morrison and R. Conrad, **Guide to Oracle 10g**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-2/Database%20Applications/Rocky%20Conrad_%20Mike%20Morrison_%20Joline%20Morrison%20-%20Guide%20to%20Oracle%2010g%20(2006%2C%20Thomson%20Course%20Technology)%20-%20libgen.lc.pdf)
