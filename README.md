@@ -151,7 +151,7 @@
 
 
 - **Parallel and Distributed Computing**
-    - [Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, **Introduction to Parallel Computing**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Parallel%20and%20Distributed%20Computing/Ananth%20Grama%20-%20Introduction%20to%20Parallel%20Computing%20(2003%2C%20Addison%20Wesley)%20-%20libgen.lc.pdf)
+    - [Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, **Introduction to Parallel Computing**](https://raw.githubusercontent.com/saranshbht/msc-books/master/M.Sc.%20CS%20Sem-3/Parallel%20and%20Distributed%20Computing/Ananth%20Grama%2C%20George%20Karypis%2C%20Vipin%20Kumar%2C%20Anshul%20Gupta%20-%20Introduction%20to%20parallel%20computing%20(2003%2C%20Addison%20Wesley)%20-%20libgen.lc.pdf)
     - [B. Parhami, **Introduction to Parallel Processing: Algorithms and Architectures**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Parallel%20and%20Distributed%20Computing/Behrooz%20Parhami%20-%20Introduction%20to%20Parallel%20Processing_%20Algorithms%20and%20Architectures%20(1999%2C%20Springer)%20-%20libgen.lc.pdf)
     - [M. van Steen, A. S. Tanenbaum, **Distributed Systems**](https://github.com/saranshbht/msc-books/raw/master/M.Sc.%20CS%20Sem-3/Parallel%20and%20Distributed%20Computing/Andrew%20S.%20Tanenbaum%20-%20Distributed%20Operating%20Systems%20(1994)%20-%20libgen.lc.pdf)
 
